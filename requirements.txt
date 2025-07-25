@@ -1,0 +1,5 @@
+Flask
+pandas
+chardet
+ollama
+python-dotenv

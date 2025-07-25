@@ -1,0 +1,51 @@
+Priority,Description,MO Type,Checking Attribute,Operation,Value,Vendor
+9,Nokia 4G (LTE) parametrisation verification & consistency check,LNBTS,qciTab8boostFactorUl,EQUALS,null,Nokia
+9,Nokia 2G (GSM) parametrisation verification & consistency check,BTS,interferenceAveragingProcessBoundary5,EQUALS,63,Nokia
+9,Nokia Transport parametrisation verification & consistency check,WNPMRNL,mtSIMonWBTS,EQUALS,60,Nokia
+9,Nokia 5G (NR) parametrisation verification & consistency check,NRCELL,dllaTargetBlerVoNR,EQUALS,null,Nokia
+9,Nokia 3G (UMTS) parametrisation verification & consistency check,RNPS,DCHUtilUpperDowngradeThr256,EQUALS,128,Nokia
+9,Nokia 4G (LTE) parametrisation verification & consistency check,LNCEL,timeToTriggerSfHigh,EQUALS,1,Nokia
+9,Nokia 4G (LTE) parametrisation verification & consistency check,GNFL,idleLBGeranCelResWeight,EQUALS,null,Nokia
+9,Nokia 3G (UMTS) parametrisation verification & consistency check,ADJI,AdjiSIB,EQUALS,1,Nokia
+9,Nokia 4G (LTE) parametrisation verification & consistency check,LNBTS,actUlGrantEffTcpBoost,EQUALS,0,Nokia
+9,Nokia 2G (GSM) parametrisation verification & consistency check,BSC,tsAf1Wfq,EQUALS,5000,Nokia
+9,Nokia 4G (LTE) parametrisation verification & consistency check,LNBTS,rlcProf1tProhib,EQUALS,2,Nokia
+9,Nokia 5G (NR) parametrisation verification & consistency check,NRBTS,tmpParam18,EQUALS,null,Nokia
+9,Nokia 5G (NR) parametrisation verification & consistency check,NRBTS,periodicalDataUsageReportTimer,EQUALS,0,Nokia
+9,Nokia 2G (GSM) parametrisation verification & consistency check,BSC,amrPpcDlHrUpperThreshold3,EQUALS,null,Nokia
+9,Nokia 3G (UMTS) parametrisation verification & consistency check,RNAC,ICBULQualDeterRaise,EQUALS,100,Nokia
+9,Nokia 3G (UMTS) parametrisation verification & consistency check,RNHSPA,N10msMACInacThr,EQUALS,0,Nokia
+9,Nokia 2G (GSM) parametrisation verification & consistency check,BSC,amrPpcUlHrLowerThreshold3,EQUALS,null,Nokia
+9,Nokia 2G (GSM) parametrisation verification & consistency check,HOC,oscDfrDemultiplexingRxQualThr,EQUALS,null,Nokia
+9,Nokia 4G (LTE) parametrisation verification & consistency check,LNBTS,mobProhibitTimerQci5Inactivity,EQUALS,null,Nokia
+7,Huawei4G (LTE) parametrisation verification & consistency check,CELLQCIPARA,NSADCINTERRATHOCOMMGROUPID,EQUALS,1,Huawei
+2,Huawei4G (LTE) parametrisation verification & consistency check,CELLRESEL,THRSHSERVLOWQCFGIND,EQUALS,0,Huawei
+2,Huawei4G (LTE) parametrisation verification & consistency check,NRMFBIFREQ,FREQUENCYBAND,EQUALS,78,Huawei
+1,Huawei4G (LTE) parametrisation verification & consistency check,CELLDLSCHALGO,FREQSELJUDGEPERIOD,EQUALS,10,Huawei
+8,Huawei4G (LTE) parametrisation verification & consistency check,CELLQCIPARA,NSADCINTERRATHOCOMMGROUPID,EQUALS,1,Huawei
+1,Huawei4G (LTE) parametrisation verification & consistency check,ANR,EVENTANRMODE,EQUALS,1,Huawei
+1,Huawei4G (LTE) parametrisation verification & consistency check,ANR,NCELLCATHDFORNRTDEL,EQUALS,5,Huawei
+1,Huawei4G (LTE) parametrisation verification & consistency check,CAMGTCFG,SCELLAGINGTIME,EQUALS,15,Huawei
+2,Huawei4G (LTE) parametrisation verification & consistency check,CELLRESEL,SINTRASEARCHCFGIND,EQUALS,1,Huawei
+7,Huawei4G (LTE) parametrisation verification & consistency check,PCCFREQCFG,NSADCPCCA4RSRQTHLD,EQUALS,-28,Huawei
+2,Huawei4G (LTE) parametrisation verification & consistency check,GLOBALPROCSWITCH,X2SONLINKSETUPTYPE,EQUALS,1,Huawei
+2,Huawei4G (LTE) parametrisation verification & consistency check,NSADCMGMTCONFIG,NSADCPCCANCHORINGPOLICY,EQUALS,0,Huawei
+1,Huawei4G (LTE) parametrisation verification & consistency check,ASPARAGROUP,ASPREALLOCSIZE,EQUALS,800,Huawei
+1,Huawei4G (LTE) parametrisation verification & consistency check,CELLCOUNTERPARAGROUP,DLTHRPPDFTHD3,EQUALS,4000,Huawei
+2,Huawei4G (LTE) parametrisation verification & consistency check,CELLOPHOCFG,INTERRATHIGHESTPRI,EQUALS,0,Huawei
+1,Huawei4G (LTE) parametrisation verification & consistency check,CELLCOUNTERPARAGROUP,DLTHRPPDFTHD1,EQUALS,2000,Huawei
+2,Huawei4G (LTE) parametrisation verification & consistency check,CELLDLSCHALGO,MAXMIMORANKPARA,EQUALS,2,Huawei
+1,Huawei4G (LTE) parametrisation verification & consistency check,CAMGTCFG,RELAXEDBHSCCDEACTCQITHD,EQUALS,5,Huawei
+2,Huawei4G (LTE) parametrisation verification & consistency check,CELLMCPARA,TRIGGERQUANTITY,EQUALS,0,Huawei
+2,Ericsson 4G (LTE) parametrisation verification & consistency check,vsDataENodeBFunction,eNodeBPlmnId.mcc,EQUALS,260,Ericsson
+2,Ericsson 4G (LTE) parametrisation verification & consistency check,vsDataENodeBFunction,endcAllowed,EQUALS,TRUE,Ericsson
+1,Ericsson 4G (LTE) parametrisation verification & consistency check,vsDataENodeBFunction,s1RetryTimer,EQUALS,30,Ericsson
+2,Ericsson 4G (LTE) parametrisation verification & consistency check,vsDataENodeBFunction,ueCapabilityEnquirySteps,EQUALS,0,Ericsson
+1,Ericsson 4G (LTE) parametrisation verification & consistency check,vsDataENodeBFunction,timePhaseMaxDeviationOtdoa,EQUALS,9,Ericsson
+1,Ericsson 4G (LTE) parametrisation verification & consistency check,vsDataENodeBFunction,mmeSupervisionTimerNb,EQUALS,5,Ericsson
+,Ericsson 4G (LTE) parametrisation verification & consistency check,vsDataENodeBFunction,iuaBbmResourceLimit,EQUALS,20,Ericsson
+8,Ericsson 4G (LTE) parametrisation verification & consistency check,vsDataENodeBFunction,minRandc,EQUALS,1,Ericsson
+2,Ericsson 4G (LTE) parametrisation verification & consistency check,vsDataENodeBFunction,tddVoipDrxProfileId,EQUALS,-1,Ericsson
+1,Ericsson 4G (LTE) parametrisation verification & consistency check,vsDataENodeBFunction,licDlBbPercentileConf,EQUALS,90,Ericsson
+8,Ericsson 4G (LTE) parametrisation verification & consistency check,vsDataENodeBFunction,tOutgoingHoExecCdma1xRtt,EQUALS,5,Ericsson
+2,Ericsson 4G (LTE) parametrisation verification & consistency check,vsDataENodeBFunction,endcSplitAllowedMoVoice,EQUALS,FALSE,Ericsson
