@@ -10,7 +10,7 @@ load_dotenv()
 app = Flask(__name__)
 
 # Get the API key from the environment
-api_key = os.environ.get("GROQ_API_KEY")
+#api_key = os.environ.get("GROQ_API_KEY")
 
 if not api_key:
     raise ValueError("GROQ_API_KEY environment variable not set. Please create a .env file and add your key.")
